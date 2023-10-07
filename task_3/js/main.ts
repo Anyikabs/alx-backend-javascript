@@ -1,1 +1,1 @@
-main for ls
+'use strict';
